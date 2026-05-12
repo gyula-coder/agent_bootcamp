@@ -1,0 +1,11 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+superpowers
+.claude
+.pytest_cache
+.vscode
+
+# Local long-term memory database
+memory/*.sqlite3
