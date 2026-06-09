@@ -1,6 +1,6 @@
 # Agent Bootcamp
 
-一个 7 天 Agent 学习项目：从手写 tool calling loop，逐步升级到 LangChain 工具、LangGraph 状态机、RAG 工具、Research Agent 和最小 memory/checkpoint。
+一个 7 天 Agent 学习项目：从手写 tool calling loop，逐步升级到 LangChain 工具、LangGraph 状态机、RAG 工具、Research Agent 和最小 memory/checkpoint。 
 
 ## 项目结构
 
